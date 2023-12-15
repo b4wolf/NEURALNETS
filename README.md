@@ -2,7 +2,7 @@
 ## Data
 The data needed is housed within the WI_weather_coords, clean_WI_data, and preprocessed_pm.
 ## Running Code
-To run our LSTM and GNN code, use model_lstm_graph_12_14.ipynb.  
+To run our LSTM and GNN code, use model_lstm_12_7(notcircularimport).ipynb.  
 The imports and downloads are designed to be run twice, once for the LSTM and once for the Graph. Running cells sequentially is a necessity.  
 All sections of the code are labelled with the task they are associated with.
 
